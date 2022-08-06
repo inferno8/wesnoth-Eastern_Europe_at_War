@@ -1,0 +1,34 @@
+XVII Century Project : Eastern Europe at War
+
+Idea:
+vul6, inferno8 
+
+Programming:
+inferno8, Arturion, Poliuks, Werian
+
+Graphics and animations:
+inferno8, Sylar
+
+Unit descriptions:
+Sagez, Poliuks, Arturion, Jarvis, vul6
+
+Maps:
+bs_grom, Transfermium, Eagle_11
+
+Playtesting:
+Sagez, inferno8, vul6, Poliuks, barowei, Icelordpl, ZawaPL, kazik, Apomaner, toman21, Richiter, Elder of Zion, cracken1, Hejnewar, ForPeace
+
+Supervision:
+Sagez, inferno8, Poliuks
+
+Maintainers:
+inferno8
+
+English translation:
+Poliuks, Sagez, barowei 
+
+Polish translation:
+ForPeace
+
+Support:
+Werian, Dragon_Warrior, rayden (Austriacy), Poliuks, Arturion, ZawaPL, barowei, Apomaner, toman21, Richiter, kazik, Icelordpl, Jarvis, Sylar, bs_grom, Zaku, Aureliusz777, Gotai, James Revan, MattDaka, Velensk, Filar, GeneralKuki, Temuchin Khan, MIS, Madlok, Elensefar, kalfat, iBaLkiD, mauricepiesligeros, oxotnik, Transfermium, Elder of Zion, cracken1, Hejnewar, ForPeace
