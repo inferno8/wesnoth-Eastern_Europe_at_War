@@ -1309,7 +1309,7 @@ msgstr ""
 
 #. [era]: id=era_eeaw
 #: Eastern_Europe_at_War\eeaw_eras.cfg:6
-msgid "The biggest historical add-on ever created for the Battle for Wesnoth! Go back in time to the XVII century where 7 European states fight for wealth, territory and survival!"
+msgid "The biggest historical add-on ever created for the Battle for Wesnoth! Go back in time to the XVII century where 8 European states fight for wealth, territory and survival!"
 msgstr ""
 
 #. [language]
