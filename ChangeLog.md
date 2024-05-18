@@ -1,6 +1,16 @@
 Eastern Europe at War - ChangeLog
 ------------------------
 
+## Version 3.1
+ ### Abilities
+	* the fortify ability cover bonus reduced from +20% to +10%
+	* the fortify ability no longer grants +20% cover in a castle or keep
+ ### Graphics
+    * improved faction images
+	* moved emblems to a separate folder
+	* sprite cleanup & improvements
+	* optimized images
+
 ## Version 3.0
  ### Structure
 	* translated all folders and file names to English
