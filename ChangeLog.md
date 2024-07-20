@@ -3,43 +3,43 @@ Eastern Europe at War - ChangeLog
 
 ## Version 3.1.1
  ### General
-    * fixed incorrect forest defense for cavalry (it should no longer exceed 30-40% in most cases) - affected units: Croatian Companion, Croatian Rider, Elite Winged Hussar, Infamis, Lisovianus, Mercenary, Mounted Dragoon, Winged Hussar, Young Winged Hussar, Cuirassier, Dragoon, General, Leib Cuirassier, Leib Dragoon, Leib Guard Cuirassier, Leib Guard Dragoon, Hakkapeliitta
+   * fixed incorrect forest defense for cavalry (it should no longer exceed 30-40% in most cases) - affected units: Croatian Companion, Croatian Rider, Elite Winged Hussar, Infamis, Lisovianus, Mercenary, Mounted Dragoon, Winged Hussar, Young Winged Hussar, Cuirassier, Dragoon, General, Leib Cuirassier, Leib Dragoon, Leib Guard Cuirassier, Leib Guard Dragoon, Hakkapeliitta
  ### Traits
-    * colonial: fixed incorrect resistance bonus value
+   * colonial: fixed incorrect resistance bonus value
  ### Translations
-    * updated the Polish translation
+   * updated the Polish translation
 
 ## Version 3.1
  ### Abilities
-    * the fortify ability cover bonus reduced from +20% to +10%
-    * the fortify ability no longer grants +20% cover in a castle or keep
+   * the fortify ability cover bonus reduced from +20% to +10%
+   * the fortify ability no longer grants +20% cover in a castle or keep
  ### Graphics
-    * improved faction images
-    * moved emblems to a separate folder
-    * sprite cleanup & improvements
-    * optimized images
+   * improved faction images
+   * moved emblems to a separate folder
+   * sprite cleanup & improvements
+   * optimized images
 
 ## Version 3.0
  ### Structure
-    * translated all folders and file names to English
-    * renamed all unit files to match unit names
-    * improved CREDITS.txt
-    * added ART_LICENSE
+   * translated all folders and file names to English
+   * renamed all unit files to match unit names
+   * improved CREDITS.txt
+   * added ART_LICENSE
  ### Code
-    * translated all unit ids to English
-    * translated all attack names to English
-    * added eeaw_ prefix to all weapon specials and abilities
-    * replaced 100 with {UNREACHABLE} in [movement_cost] for all units
-    * fixed incorrect image path in Great_Chaika.cfg
-    * project-wide code cleanup
+   * translated all unit ids to English
+   * translated all attack names to English
+   * added eeaw_ prefix to all weapon specials and abilities
+   * replaced 100 with {UNREACHABLE} in [movement_cost] for all units
+   * fixed incorrect image path in Great_Chaika.cfg
+   * project-wide code cleanup
  ### Descriptions
-    * improved scenario descriptions
-    * improved option descriptions
-    * fixed typos
+   * improved scenario descriptions
+   * improved option descriptions
+   * fixed typos
  ### Graphics
-    * added longrange_attack.png
+   * added longrange_attack.png
  ### Translations
-    * updated the raw translation file
-    * updated the Polish translation
+   * updated the raw translation file
+   * updated the Polish translation
  ### Other
-    * began to keep a changelog
+   * began to keep a changelog
