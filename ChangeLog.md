@@ -1,6 +1,14 @@
 Eastern Europe at War - ChangeLog
 ------------------------
 
+## Version 3.1.1
+ ### General
+    * fixed incorrect forest defense for cavalry (it should no longer exceed 30-40% in most cases) - affected units: Croatian Companion, Croatian Rider, Elite Winged Hussar, Infamis, Lisovianus, Mercenary, Mounted Dragoon, Winged Hussar, Young Winged Hussar, Cuirassier, Dragoon, General, Leib Cuirassier, Leib Dragoon, Leib Guard Cuirassier, Leib Guard Dragoon, Hakkapeliitta
+ ### Traits
+    * colonial: fixed incorrect resistance bonus value
+ ### Translations
+    * updated the Polish translation
+
 ## Version 3.1
  ### Abilities
     * the fortify ability cover bonus reduced from +20% to +10%
